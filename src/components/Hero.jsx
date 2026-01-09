@@ -37,9 +37,9 @@ const Hero = () => {
                     </p>
 
                     <div className="flex flex-col md:flex-row items-center justify-center gap-4 mb-12">
-                       <a href="public/VIKTOR NIKOLOV RESUME26.pdf" className="bg-cyber-primary text-cyber-dark font-bold py-3 px-6 rounded-lg hover:bg-cyber-primary/90 transition-colors flex items-center justify-center gap-2">
+                        <a href="C:\Users\Viktor\Desktop\FAIRFIELD\Job Applications\RESUME\V.NikolovCV.pdf" className="bg-cyber-primary text-cyber-dark font-bold py-3 px-6 rounded-lg hover:bg-cyber-primary/90 transition-colors flex items-center justify-center gap-2">
                             <Download className="w-5 h-5" />
-                            Download Resume 
+                            Download Resume
                         </a>
                         <Link to="contact" smooth={true} duration={500} offset={-100}>
                             <button className="bg-transparent border border-cyber-primary text-cyber-primary font-bold py-3 px-6 rounded-lg hover:bg-cyber-primary/10 transition-colors flex items-center justify-center gap-2">
